@@ -1,0 +1,24 @@
+{
+  "name": "chickichicki-shared-interfaces",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Der-Alex/chickichicki-shared-interfaces.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Der-Alex/chickichicki-shared-interfaces/issues"
+  },
+  "homepage": "https://github.com/Der-Alex/chickichicki-shared-interfaces#readme",
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  }
+}
